@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\dgfra\Documents\FISC\Mantenimiento y Pruebas de Software\Done\Lab 8\Selenium\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
